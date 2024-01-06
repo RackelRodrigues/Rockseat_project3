@@ -27,7 +27,7 @@ Sugestões e melhorias são sempre bem-vindas. Sinta-se à vontade para criar is
 
 ![Demonstração](https://github.com/RackelRodrigues/Rockseat_projects/assets/101216652/16c18199-360e-4fd1-9500-531a37f1e9e5)
 
-Agradeço por conferir o meu desafio! Se tiver alguma dúvida ou sugestão, fique à vontade para compartilhar. 👩‍💻 #DesafioReactJS #StyledComponents #ReactIcons
+Agradeço por conferir o meu desafio! Se tiver alguma dúvida ou sugestão, fique à vontade para compartilhar. 
 
 
 
