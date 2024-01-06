@@ -5,6 +5,9 @@
 
 Neste desafio, desenvolvi uma página com uma tabela apresentando as opções de planos e preços para um produto ou serviço. Utilizei Styled Components, ReactJS e um ícone da biblioteca React Icons.
 
+Detalhes do Desafio: [Link do Desafio](https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32)
+
+
 ## Objetivo 🚀
 
 O objetivo deste desafio era criar uma tabela que destacasse as diferentes opções de planos oferecidas, juntamente com seus respectivos preços. O uso de Styled Components proporcionou uma estilização eficiente, enquanto o ReactJS permitiu a criação de uma interface dinâmica e interativa.
